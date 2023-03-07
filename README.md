@@ -2,7 +2,7 @@ The aim is to get repositories which have at least 1 issue with the label of 'Po
 
 Then to get all issues of these repositories. 
 
-The data is extracted on 05.03.2023.
+The data is extracted on 07.03.2023. 870 repositories, 9929 issues, 7692 closed issues are retrieved.
 
 Related files:
 
